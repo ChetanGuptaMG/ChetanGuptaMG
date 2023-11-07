@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 "🔮 The Code Sorcerer Behind the Scenes 🌟 | 🌉 Building Bridges with Backend Magic 🪄 | 🌐 Weaving the Backend Web of Dreams ✨"
 --------------------------------------------------------------------------------------------------------------------------------
 
-I'm a dedicated developer with a passion for Node.js and web development. My journey in tech began with Node.js, where I became skilled in server-side development. Over time, I've also embraced the art of web development, crafting engaging and user-friendly web experiences. I thrive on challenges and enjoy finding creative solutions, whether it's optimizing backend processes or designing responsive web interfaces. Let's collaborate to build something remarkable!
+"I'm a dedicated backend developer with a strong passion for Node.js and server-side development. My tech journey began with Node.js, and I've honed my skills in crafting efficient and scalable backend systems. Over the years, I've delved deep into the intricacies of server-side technologies, focusing on optimizing backend processes, improving system performance, and ensuring data integrity. I thrive on challenges and relish finding creative solutions to enhance backend functionalities. Let's collaborate to build robust and remarkable server-side solutions!"
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [chetankguptacg66@gmail.com](mailto:chetankguptacg66@gmail.com)
