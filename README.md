@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chetan Gupta
 ====================================================================================================================================
 
-"🔮 The Code Sorcerer Behind the Scenes 🌟 | 🌉 Building Bridges with Backend Magic 🪄 | 🌐 Weaving the Backend Web of Dreams ✨"
+"🔮 The Code Sorcerer Behind the Scenes 🌟 | 🌉 Building Bridges with Backend Magic 🪄 |"
 --------------------------------------------------------------------------------------------------------------------------------
 
 "I'm a dedicated backend developer with a strong passion for Node.js and server-side development. My tech journey began with Node.js, and I've honed my skills in crafting efficient and scalable backend systems. Over the years, I've delved deep into the intricacies of server-side technologies, focusing on optimizing backend processes, improving system performance, and ensuring data integrity. I thrive on challenges and relish finding creative solutions to enhance backend functionalities. Let's collaborate to build robust and remarkable server-side solutions!"
